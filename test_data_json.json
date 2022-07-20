@@ -1,0 +1,14 @@
+{
+   "firstName": "Amit",
+   "lastName": "Jha",
+   "gender": "male",
+   "age": 32,
+   "address": {
+       "streetAddress": "101",
+       "city": "Bangalore",
+       "state": "KA"
+   },
+   "phoneNumbers": [
+       { "type": "home", "number": "123456789" }
+   ]
+}
